@@ -1,0 +1,20 @@
+track initiatives
+create clocks for round based events that all decrement independently when a new round starts
+Add info about custom onsters to be stored locally/pushed to server
+track creature health
+track creature perception
+track creature statuses
+track creature AC
+Track player AC
+Track player perception
+track player investigation
+track player survival
+track player status
+track player AC
+track player hp
+
+enter details on weather conditions
+track current weather conditions
+
+user accounts
+allow users to configure homebrew creatures to their sessionss or core creatures
